@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Data4MDE web site!
+
+Intelligence. Without qualitative data, there is no training phase and all the modern research will go vain. 
+In Model-Driven Engineering (MDE), like any discipline, data are crucial to perform any research activity. MDE researchers spend time and effort to create suitable corpus of objects to answer specific research questions. The selection of an adequate corpus of data often requires intense, tedious, and manual activities. 
+MDE adoption is taking advantage of the growth of the integration of Machine Learning (ML) techniques into domain modeling. 
+Empirical analyses, data analytics, and ML algorithms perform better as much as they can learn commonalities over massive datasets.
+
+Considering the above information, the need for data is a challenging issue that affects any researcher in their career. This can be brought to the modeling world where data are modeling artifacts.
+A place to discuss relevant MDE datasets should promote their reuse, even the enhancement, and new possible collaborations between researchers. 
+Data4MDE aims to share and discuss identified MDE datasets enabling research in the field of analytics, reuse, model analysis, testing, learning-based approaches, and many other connected fields.
+
 
 You can use the [editor on GitHub](https://github.com/md2manoppello/Data4MDE/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
