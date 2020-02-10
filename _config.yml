@@ -44,6 +44,7 @@ navigationLinks:
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Program committeee"}
+ - {permalink: "/date/", text: "Important Dates"}
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 
