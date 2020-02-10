@@ -1,0 +1,256 @@
+- 
+  id: 0
+  name: "Juri"
+  surname: "Di Rocco"
+  title: "Post Doctoral researcher"
+  thumbnailUrl: Juri.jpg
+  team: true
+  ribbon: 
+    - {abbr: "PhD", title: "Univesità degli studi dell'Aquila"}
+  social: 
+    - {name: "github", link: "https://github.com/md2manoppello"}
+- 
+  id: 1
+  name: "Juan"
+  surname: "de Lara"
+  title: "Full professor"
+  thumbnailUrl: Juan.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "site", link: "http://www.ii.uam.es/~jlara"}
+    - {namew: "twitter", link: "https://twitter.com/miso_uam"}
+- 
+  id: 2
+  name: "Michel"
+  surname: "Chaudorne"
+  title: "Full professor"
+  thumbnailUrl: Michelle.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/mvrchaudrone"}
+    - {name: "site", link: "https://www.gu.se/english/about_the_university/staff/?languageId=100001&userId=xchami#tabContentAnchor1"}
+-
+  id: 3
+  name: "Ludovico"
+  surname: "Iovino "
+  title: "GSSI, Italy"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+-
+  id: 4
+  name: "Francesco"
+  surname: "Basciani "
+  title: "University of L’Aquila, Italy"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+-
+  id: 5
+  name: "Mirco"
+  surname: "Franzago"
+  title: "University of L’Aquila, Italy, Italy"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+-
+  id: 6
+  name: "Alfonsi"
+  surname: "Pierantonio"
+  title: "University of L’Aquila, Italy, Italy"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+
+-
+  id: 7
+  name: "Davide"
+  surname: "Di Ruscio"
+  title: "University of L’Aquila, Italy, Italy"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+-
+  id: 8
+  name: "Loli"
+  surname: "Burgeno"
+  title: "UOC, Spain"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+-
+  id: 9
+  name: "Jesus Sanchez"
+  surname: "Cuadrado"
+  title: "Universidad de Murcia, Spain"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+-
+  id: 10
+  name: "Adrian "
+  surname: "Rutle"
+  title: "Western Norway University of Applied Sciences, Norway"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+-
+  id: 11
+  name: "Federico"
+  surname: "Ciccozzi"
+  title: "Malardalen University, Sweden"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+
+
+-
+  id: 12
+  name: "Ivano"
+  surname: "Malavolta"
+  title: "Vrije Universiteit Amsterdam, The Netherlands"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+-
+  id: 13
+  name: "Esther"
+  surname: "Guerra"
+  title: "Universidad Aut ́onoma de Madrid, Spain"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+
+-
+  id: 14
+  name: "Loek"
+  surname: "Cleophas"
+  title: "Eindhoven Unversity of Technology, The Netherlands"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+
+-
+  id: 15
+  name: "Thomas"
+  surname: "Degueule"
+  title: "CNRS Bordeaux, France"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+-
+  id: 16
+  name: "Vadim V."
+  surname: "Zaytsev"
+  title: "Raincode Labs, Belgium"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+-
+  id: 17
+  name: "Eugene"
+  surname: "Syriani"
+  title: "University of Montreal, Canada"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+-
+  id: 18
+  name: "Onder"
+  surname: "Babur"
+  title: "Eindhoven Unversity of Technology, The Netherlands"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+-
+  id: 19
+  name: "Ralf"
+  surname: "Lammel"
+  title: "University of Koblenz-Landau, Germany"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+-
+  id: 20
+  name: "Johannes"
+  surname: "Hartel"
+  title: "University of Koblenz-Landau, Germany"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+-
+  id: 21
+  name: "Antonio"
+  surname: "Garcıa-Dominguez "
+  title: "Aston University, UK"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
+
+    
+    #[TBC] Patrick Naubauer - University of York, UK
+    #[TBC] Antonio Cicchetti - M ̈alardalen University, Sweden 
+    #[TBC] Alessandra Bagnato - Softeam, France
+    #[TBC] Konstantinos Barmpis - University of York, UK
+    
