@@ -9,18 +9,18 @@ Data is a precious resource and is the most important part of all applications l
 
 The need for data is the mission that Data4MDE aims to solve.  In particular,  we are looking for papers that describe how the data are collected, how the dataset can be reused in other research, and how interested researchers can contribute to maintain and improve the dataset. The purpose of Data4MDE is to provide a forum with the aim to share and discuss the datasets for MDE. A well-defined corpus of data enables many research activities: reproducible experiments, adoption of learning-based approaches, analytics, model analysis and testing. 
 
-#### Topic
+#### Topics
 The workshop aims to attract and offer a space for different kinds of datasets around MDE research. MDE Data Showcase papers should describe datasets that are curated by their authors and made available to use by others. In our envision, we are searching for datasets that should be of value to others in the community. The context where the dataset has been used, the sources and the methodology are key aspects to foster their reuse. We are looking for papers that even describe the data in terms of structures, API, supporting tools, and schema.  It may help other researchers to enlarge and refine the dataset. Themes that are of particular interest to Data4MDE  also include: i) the description of the originality of the data set, ii) privacy,  licenses, and ethical aspects, iii) an aggregated and statistical view of the data, iv) the identified issues and limitation in creating the data collection,  and v) manual activities and human added knowledge and reasoning.
 We are looking for any possible datasets consisting of the MDE artifacts, for instance:
 
-* models and model languages in any syntax and semantic,
+* collection of models and modelling language definitions, in any syntax and semantics,
 * model transformations,
-* collected answer from research questionnaires,
+* collected answers from research questionnaires,
 * model-based logging manipulation,
 * model workbenches,
-* operational-based model,
+* operational-based models,
 * Big-Models,
-* model refactoring collection,
+* model refactoring collections,
 * modeling notations for describing the dataset,
 * supporting tools to query, search and filter the data,
 * concrete examples of  modeling artifact evolution, and

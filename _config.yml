@@ -39,7 +39,7 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
- - {permalink: "/cfp/", text: "Call for paper"}
+ - {permalink: "/cfp/", text: "Call for papers"}
  #- {permalink: "/juri/", text: "Juri"}
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speakers"}
