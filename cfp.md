@@ -28,7 +28,7 @@ We are looking for any possible datasets consisting of the MDE artifacts, for in
  
  The Data4MDE would be looking mainly for papers describing datasets of MDE artifacts, which should be made freely available by the authors.
   
-#### Please submit your proposals [here]( https://easychair.org/conferences/?conf=??).
+#### Please submit your proposals [here](https://easychair.org/conferences/?conf=data4mde2020).
 
 Submission guidelines. We solicit data showcase papers (max. 4 pages): contributions on topics of the workshop presenting novel MDE dataset.
 The submissions must be in English and adhere to the Springer LNCS style.
