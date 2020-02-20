@@ -247,7 +247,17 @@
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"} 
-
+-
+  id: 22
+  name: "Romina"
+  surname: "Eramo"
+  title: "University of L’Aquila, Italy"
+  thumbnailUrl: DmytroDanylyk.jpg
+  subTeam: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
     
     #[TBC] Patrick Naubauer - University of York, UK
     #[TBC] Antonio Cicchetti - M ̈alardalen University, Sweden 
