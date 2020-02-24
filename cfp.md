@@ -41,7 +41,7 @@ All submissions must be original work and must not have been previously publishe
 * Paper submission: May 4, 2020
 * Notification to authors: May 25, 2020
 * Camera ready version: ?
-* Workshop date: One day selected 22-26 June, 2020
+* Workshop date: One day selected 22 June, 2020
 
 
 #### Organizers.
@@ -49,3 +49,5 @@ All submissions must be original work and must not have been previously publishe
 * Juri Di Rocco - Università degli Studi dell’Aquila (Italy) - juri.dirocco@univaq.it 
 * Juan de Lara - Universidad  Autónoma  de Madrid (Spain) - juan.delara@uam.es
 * Michel Chaudron - University of Gothenburg (Sweden) - chaudron@chalmers.se 
+
+

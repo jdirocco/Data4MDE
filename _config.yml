@@ -2,6 +2,7 @@
 gems:
 - jekyll-sitemap
 safe: false
+plugins: ['jekyll-twitter-plugin']
 
 # Build Settings
 markdown: kramdown

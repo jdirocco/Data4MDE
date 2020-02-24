@@ -2,8 +2,8 @@
 <footer id="footer" class="footer">
 	<div class="row">
 		{% for block in site.footerBlocks %}
-        {% assign colWidth = 12 | divided_by: forloop.length %}
-		<div class="col-md-{{ colWidth }} col-xs-6">
+        {% assign colWidth = 12 | divided_by: forloop.length + 1 %}
+		<div class="col-md-4 col-xs-4">
 			<h5>{{ block.title }}</h5>
 			<ul>
 				{% for linkElement in block.links %}
@@ -11,7 +11,17 @@
 				{% endfor %}
 			</ul>
 		</div>
+		
 		{% endfor %}
+		<div class="col-md-4 col-xs-4">
+			<div class='jekyll-twitter-plugin' align="center">
+				<div class='jekyll-twitter-plugin'>
+					 <a class="twitter-timeline" data-width="500" data-tweet-limit="1" href="https://twitter.com/Data4MDE?ref_src=twsrc%5Etfw">Tweets by Data4MDE</a> 
+					 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+				</div> 
+			
+			</div>  
+		</div>
 	</div>
 
 	
