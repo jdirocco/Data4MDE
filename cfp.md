@@ -30,7 +30,7 @@ We are looking for any possible datasets consisting of the MDE artifacts, for in
   
 #### Please submit your proposals [here](https://easychair.org/conferences/?conf=data4mde2020).
 
-Submission guidelines. We solicit data showcase papers (max. 4 pages): contributions on topics of the workshop presenting novel MDE dataset.
+Submission guidelines. We solicit data showcase papers (**max. 5 pages**): contributions on topics of the workshop presenting novel MDE dataset.
 The submissions must be in English and adhere to the Springer LNCS style.
 The papers must be associated with the dataset that should be made available at the time of submission of the paper for review. We are encouraging to publish the dataset in a dedicate Github https://github.com repository or in Zenodo https://zenodo.org, an open-access repository that can provide a digital object identifier (DOI).
 
