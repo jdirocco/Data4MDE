@@ -3,6 +3,7 @@ layout: post
 title:  Call for Papers
 isStaticPost: false
 ---
+# The Data4MDE workshop will be postponed to STAF 2021.
 #### Scope
 
 Data is a precious resource and is the most important part of all applications like Data Analytics, Machine Learning, Artificial Intelligence. Without qualitative data, there is no training phase and all the modern research will go in vain. In Model-Driven Engineering (MDE), like any discipline, data are crucial to perform any research activity. The researcher spends time and effort to create a suitable corpus of objects to answer specific research questions. 
