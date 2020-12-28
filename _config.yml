@@ -14,8 +14,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "The first edigtion of Data4MDE workshop"
 email: "juri.dirocco@univaq.it"
 description: "The first edition of Data4MDE workshop"
-url: "https://md2manoppello.github.io/Data4MDE"
-googleAnalyticsSiteUrl: "md2manoppello.github.io/Data4MDE"
+url: "https://jdirocco.github.io/Data4MDE"
+googleAnalyticsSiteUrl: "jdirocco.github.io/Data4MDE"
 
 # Organizer Info
 organizerName: "Juri Di Rocco"
@@ -55,8 +55,8 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Data4MDE 2020"
-eventDate: "Bergen June 22, 2020"
+heroTitle: "Data4MDE 2021"
+eventDate: "Bergen June, 2021"
 typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
 #heroButtons:

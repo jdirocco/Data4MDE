@@ -6,13 +6,11 @@
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <h1>{{ heroText[0] }}</h1>
-            <!--<p>{{ site.eventDate }}</p>
+            <p>{{ site.eventDate }}</p>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
-            {% endfor %}-->
-            <p>Because of the COVID-19 pandemic, <a href="https://staf2020.hvl.no/">STAF'20</a> has been postponed until next year. </p>
-            <p>The Data4MDE workshop has been postponed to STAF 2021 as well. </p>
-            <p>We are sorry for the inconvenience and we hope to welcome you with your contributions next year.</p>
+            {% endfor %}
+            
         </div>
     </div>
     </div>

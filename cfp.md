@@ -29,7 +29,7 @@ We are looking for any possible datasets consisting of the MDE artifacts, for in
  
  The Data4MDE would be looking mainly for papers describing datasets of MDE artifacts, which should be made freely available by the authors.
   
-#### Please submit your proposals [here](https://easychair.org/conferences/?conf=data4mde2020).
+Please submit your proposals here (The link is not yet available).
 
 Submission guidelines. We solicit data showcase papers (**max. 5 pages**): contributions on topics of the workshop presenting novel MDE dataset.
 The submissions must be in English and adhere to the Springer LNCS style.
@@ -39,11 +39,11 @@ Contributions will be handled with EasyChair and will be peer reviewed by at lea
 All submissions must be original work and must not have been previously published or being under review elsewhere. For each accepted paper, at least one of the authors must register for the workshop, participate fully in the workshop, and present the paper at the workshop. Accepted workshop papers will be published on CEUR-WS.
 
 #### Important dates.
-* Paper submission: May 4, 2020
-* Notification to authors: May 25, 2020
-* Camera ready version: ?
-* Workshop date: One day selected 22 June, 2020
-
+* Abstract Submission: 16 April 2021
+* Paper Submission: 23 April 2021
+* Notification:	28 May   2021
+* Final version due: 15 June  2021
+* Workshop: June 2021 (not yet determined; between June 21 and June 25) 
 
 #### Organizers.
 
