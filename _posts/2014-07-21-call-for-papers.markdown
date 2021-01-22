@@ -6,7 +6,7 @@ isStaticPost: false
 ---
 #### Scope
 
-Data is a precious resource and is the most important part of all applications like Data Analytics, Machine Learning, Artificial Intelligence. Without qualitative data, there is no training phase and all the modern research will go in vain. In Model-Driven Engineering (MDE), like any discipline, data are crucial to perform any research activity. The researcher spends time and effort to create a suitable corpus of objects to answer specific research questions. 
+Data is a precious resource and is the most important part of all applications like Data Analytics, Machine Learning, Artificial Intelligence. Without qualitative data, there is no training phase and all the modern research will go in vain. In Model-Driven Engineering (MDE), like any discipline, data is crucial to perform any research activity. The researcher spends time and effort to create a suitable corpus of objects to answer specific research questions. 
 
 The need for data is the mission that Data4MDE aims to solve.  In particular,  we are looking for papers that describe how the data are collected, how the dataset can be reused in other research, and how interested researchers can contribute to maintain and improve the dataset. The purpose of Data4MDE is to provide a forum with the aim to share and discuss the datasets for MDE. A well-defined corpus of data enables many research activities: reproducible experiments, adoption of learning-based approaches, analytics, model analysis and testing. 
 
