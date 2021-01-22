@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "The first edigtion of Data4MDE workshop"
+title: "The first edition of Data4MDE workshop"
 email: "juri.dirocco@univaq.it"
 description: "The first edition of Data4MDE workshop"
 url: "https://jdirocco.github.io/Data4MDE"

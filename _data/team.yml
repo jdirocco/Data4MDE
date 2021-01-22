@@ -68,7 +68,7 @@
     - {name: "github", link: "https://github.com/dmytrodanylyk"} 
 -
   id: 6
-  name: "Alfonsi"
+  name: "Alfonso"
   surname: "Pierantonio"
   title: "University of L’Aquila, Italy, Italy"
   thumbnailUrl: DmytroDanylyk.jpg
@@ -92,7 +92,7 @@
 -
   id: 8
   name: "Loli"
-  surname: "Burgeno"
+  surname: "Burge&ntilde;o"
   title: "UOC, Spain"
   thumbnailUrl: DmytroDanylyk.jpg
   subTeam: true
@@ -205,7 +205,7 @@
     - {name: "github", link: "https://github.com/dmytrodanylyk"} 
 -
   id: 18
-  name: "Onder"
+  name: "&Ouml;nder"
   surname: "Babur"
   title: "Eindhoven Unversity of Technology, The Netherlands"
   thumbnailUrl: DmytroDanylyk.jpg
@@ -217,7 +217,7 @@
 -
   id: 19
   name: "Ralf"
-  surname: "Lammel"
+  surname: "L&auml;mmel"
   title: "University of Koblenz-Landau, Germany"
   thumbnailUrl: DmytroDanylyk.jpg
   subTeam: true
@@ -228,7 +228,7 @@
 -
   id: 20
   name: "Johannes"
-  surname: "Hartel"
+  surname: "H&auml;rtel"
   title: "University of Koblenz-Landau, Germany"
   thumbnailUrl: DmytroDanylyk.jpg
   subTeam: true
@@ -239,7 +239,7 @@
 -
   id: 21
   name: "Antonio"
-  surname: "Garcıa-Dominguez "
+  surname: "Garc&iacute;a-Dom&iacute;nguez "
   title: "Aston University, UK"
   thumbnailUrl: DmytroDanylyk.jpg
   subTeam: true
