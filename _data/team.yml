@@ -133,20 +133,6 @@
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"} 
-
-
--
-  id: 12
-  name: "Ivano"
-  surname: "Malavolta"
-  title: "Vrije Universiteit Amsterdam, The Netherlands"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"} 
-
 -
   id: 14
   name: "Loek"
