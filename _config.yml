@@ -25,7 +25,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, workshop, dataset, Model-Driven Engineering, programming, data, SE, developers, "
 twitterAccount: "@Data4MDE"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -44,7 +44,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
  - {permalink: "/cfp/", text: "Call for papers"}
- #- {permalink: "/juri/", text: "Juri"}
+ - {permalink: "/keynote/", text: "Keynote"}
  #- {permalink: "/schedule/", text: "Schedule"}
  #- {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Program committeee"}

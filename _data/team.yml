@@ -8,7 +8,9 @@
   ribbon: 
     - {abbr: "PhD", title: "Univesità degli studi dell'Aquila"}
   social: 
-    - {name: "github", link: "https://github.com/md2manoppello"}
+    - {name: "github", link: "https://github.com/jdirocco"}
+    - {name: "site", link: "https://jdirocco.github.io"}
+    - {name: "twitter", link: "https://twitter.com/juridirocco"}
 - 
   id: 1
   name: "Juan"
@@ -20,7 +22,7 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "site", link: "http://www.ii.uam.es/~jlara"}
-    - {namew: "twitter", link: "https://twitter.com/miso_uam"}
+    - {name: "twitter", link: "https://twitter.com/miso_uam"}
 - 
   id: 2
   name: "Michel"

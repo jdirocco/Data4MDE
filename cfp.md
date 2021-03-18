@@ -28,10 +28,12 @@ We are looking for any possible datasets consisting of the MDE artifacts, for in
  
  The Data4MDE would be looking mainly for papers describing datasets of MDE artifacts, which should be made freely available by the authors.
   
-Please submit your proposals here ([here](https://easychair.org/conferences/?conf=data4mde2021).
+Please submit your proposals here ([here](https://easychair.org/conferences/?conf=data4mde2021)).
 
 Submission guidelines. We solicit data showcase papers (**max. 5 pages**): contributions on topics of the workshop presenting novel MDE dataset.
-The submissions must be in English and adhere to the Springer LNCS style.
+
+The submissions must be in English and adhere to the new CEUR style. The template is available at [https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk)
+
 The papers must be associated with the dataset that should be made available at the time of submission of the paper for review. We are encouraging to publish the dataset in a dedicate Github https://github.com repository or in Zenodo https://zenodo.org, an open-access repository that can provide a digital object identifier (DOI).
 
 Contributions will be handled with EasyChair and will be peer reviewed by at least 3 PC members. 
