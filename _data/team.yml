@@ -33,7 +33,6 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "twitter", link: "https://twitter.com/mvrchaudrone"}
     - {name: "site", link: "https://www.gu.se/english/about_the_university/staff/?languageId=100001&userId=xchami#tabContentAnchor1"}
 -
   id: 3
