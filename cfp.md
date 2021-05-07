@@ -40,7 +40,7 @@ Contributions will be handled with EasyChair and will be peer reviewed by at lea
 All submissions must be original work and must not have been previously published or being under review elsewhere. For each accepted paper, at least one of the authors must register for the workshop, participate fully in the workshop, and present the paper at the workshop. Accepted workshop papers will be published on CEUR-WS.
 
 #### Important dates.
-* Paper Submission: May, 4 2021
+* Paper Submission: May, 11 2021
 * Notification:	May, 25 2021
 * Final version due: not yet deremined
 * Workshop: June 2021 (not yet determined; between June 21 and June 25) 
